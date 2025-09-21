@@ -1,0 +1,28 @@
+export const creditRequests = [
+    { quantityRequest: 5000, isApproved: true, numCredits: 1, name: "Juan Pérez", date: "2002-03-05" },
+    { quantityRequest: 12000, isApproved: false, numCredits: 2, name: "Marta Gómez", date: "2002-03-12" },
+    { quantityRequest: 8000, isApproved: true, numCredits: 0, name: "Carlos Ruiz", date: "2002-03-20" },
+    { quantityRequest: 15000, isApproved: false, numCredits: 3, name: "Ana Torres", date: "2002-03-28" },
+    { quantityRequest: 7000, isApproved: true, numCredits: 1, name: "Luis Molina", date: "2002-03-07" },
+    { quantityRequest: 9500, isApproved: true, numCredits: 2, name: "Sandra Navarro", date: "2002-03-15" },
+    { quantityRequest: 4000, isApproved: true, numCredits: 0, name: "Roberto Sánchez", date: "2002-03-22" },
+    { quantityRequest: 11000, isApproved: true, numCredits: 1, name: "Diana López", date: "2002-03-30" },
+    { quantityRequest: 6000, isApproved: false, numCredits: 2, name: "Pedro Jiménez", date: "2002-03-09" },
+    { quantityRequest: 13500, isApproved: true, numCredits: 0, name: "Jessica Morales", date: "2002-03-17" },
+    { quantityRequest: 8500, isApproved: false, numCredits: 1, name: "Miguel Ángel Fernández", date: "2002-03-25" },
+    { quantityRequest: 3000, isApproved: true, numCredits: 1, name: "Carmen Rodríguez", date: "2002-03-04" },
+    { quantityRequest: 10500, isApproved: true, numCredits: 3, name: "Francisco García", date: "2002-03-11" },
+    { quantityRequest: 9500, isApproved: false, numCredits: 0, name: "Laura Martínez", date: "2002-03-19" },
+    { quantityRequest: 7200, isApproved: true, numCredits: 2, name: "Sergio Hernández", date: "2002-03-27" },
+    { quantityRequest: 11500, isApproved: false, numCredits: 1, name: "Andrea González", date: "2002-03-06" },
+    { quantityRequest: 5000, isApproved: true, numCredits: 1, name: "Raúl Álvarez", date: "2002-03-14" },
+    { quantityRequest: 6500, isApproved: true, numCredits: 0, name: "Patricia Vargas", date: "2002-03-21" },
+    { quantityRequest: 7800, isApproved: false, numCredits: 3, name: "Oscar Medina", date: "2002-03-29" },
+    { quantityRequest: 5600, isApproved: true, numCredits: 2, name: "Verónica Castillo", date: "2002-03-08" },
+    { quantityRequest: 9000, isApproved: true, numCredits: 1, name: "Diego Romero", date: "2002-03-16" },
+    { quantityRequest: 4000, isApproved: false, numCredits: 1, name: "Sofía Peralta", date: "2002-03-24" },
+    { quantityRequest: 11000, isApproved: true, numCredits: 0, name: "Jorge Salazar", date: "2002-03-03" },
+    { quantityRequest: 8500, isApproved: true, numCredits: 2, name: "Elena Núñez", date: "2002-03-10" },
+    { quantityRequest: 10000, isApproved: false, numCredits: 3, name: "Gabriel Ortega", date: "2002-03-18" }
+  ];
+  
