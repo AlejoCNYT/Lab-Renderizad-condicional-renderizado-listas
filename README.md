@@ -39,7 +39,7 @@ Abre la URL local impresa por Vite.
 
 ---
 
-## 2) Start ADA Client (tests) / Iniciar ADA Client (pruebas)
+## 2) Start ADA Client / Iniciar ADA Client
 
 Open a **second terminal** at the repo root and run **one** of the following, replacing `<YOUR_ASSIGNMENT_URL>` with the exact URL from the platform.  
 Abre una **segunda terminal** en la raíz del repo y ejecuta **uno** de los siguientes, reemplazando `<YOUR_ASSIGNMENT_URL>` con la URL exacta de la plataforma.
