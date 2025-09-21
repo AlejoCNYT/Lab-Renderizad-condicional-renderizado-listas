@@ -151,46 +151,10 @@ export default App
 npm run ada-test
 ```
 
-If you see a warning like `<tr> cannot appear as a child of <div>` in tests, it is harmless for this lab.  
-Si ves un aviso como `<tr> cannot appear as a child of <div>` en las pruebas, no afecta este laboratorio.
-
----
-
-## 5) Submit / Enviar
-
-When tests pass, submit using your OS command:  
-Cuando las pruebas pasen, envía según tu sistema:
-
-### Windows
-```powershell
-.\ada-client.exe submit <YOUR_ASSIGNMENT_URL>
-```
-
-### macOS
-```bash
-./ada-client submit <YOUR_ASSIGNMENT_URL>
-```
-
-### Linux
-```bash
-./ada-client-linux submit <YOUR_ASSIGNMENT_URL>
-```
-
----
-
-## 6) Troubleshooting / Solución de problemas
-
 <img width="1294" height="297" alt="imagen" src="https://github.com/user-attachments/assets/71078c4f-acb0-430d-8d65-4dc7c8e1c877" />
 
-- **Wrong branch?** Recheck: `git checkout list-and-conditional-rendering`  
-- **Dependencies fail?** Delete `node_modules` and reinstall:  
-  - `rm -rf node_modules package-lock.json` (macOS/Linux) or  
-  - `rmdir /S /Q node_modules` y `del package-lock.json` (Windows PowerShell)  
-  then `npm install`
-- **ADA Client won’t open login?** Copy the URL into your browser, sign in, and keep the session open.  
-- **Branch equivocada?** Asegúrate: `git checkout list-and-conditional-rendering`  
-- **Fallo de dependencias?** Borra e instala de nuevo como arriba y corre `npm install`  
-- **ADA Client no abre login?** Copia la URL en tu navegador, inicia sesión y deja la ventana abierta.
+If you see a warning like `<tr> cannot appear as a child of <div>` in tests, it is harmless for this lab.  
+Si ves un aviso como `<tr> cannot appear as a child of <div>` en las pruebas, no afecta este laboratorio.
 
 ---
 
